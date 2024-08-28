@@ -6,7 +6,7 @@ function Navbar(props) {
       <Link to={"/"}>
         {" "}
         <h1 className="text-[50px] font-black cursor-pointer">
-          logi<span className="text-blue-800">Tracker </span>
+          Crypto<span className="text-blue-800">Tracker </span>
         </h1>
       </Link>
       <navitems className="flex font-bold text-[25px] gap-6">
